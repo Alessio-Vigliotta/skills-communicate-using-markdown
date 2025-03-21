@@ -3,3 +3,13 @@
 ## Learnig how to use markdown 
 
 ![Image of Octonaut](https://octodex.github.com/images/octonaut.jpg)
+
+### Some Languages I Know
+
+``` Java
+System.out.println("Java");
+```
+
+``` SQL
+SELECT * FROM SQL
+```
